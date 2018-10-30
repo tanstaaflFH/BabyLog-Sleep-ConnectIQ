@@ -1,0 +1,17 @@
+<layout id="LogLayout">
+	<drawable id="logHeader" />
+    <label id="lblLogHeader" font="Graphics.FONT_TINY" x="center" y="8" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE" text="Sleep Log" />
+    <drawable id="logDividers" />
+    <label id="lblSleepLogTime0" font="Graphics.FONT_XTINY" x="center" y="43" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE" text="--" />
+    <label id="lblSleepLogSlept0" font="Graphics.FONT_XTINY" x="center" y="58" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE" text="--" />
+    <label id="lblSleepLogAwake0" font="Graphics.FONT_XTINY" x="center" y="73" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE" text="--" />    
+    <label id="lblSleepLogTime1" font="Graphics.FONT_XTINY" x="center" y="93" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE" text="--" />
+    <label id="lblSleepLogSlept1" font="Graphics.FONT_XTINY" x="center" y="108" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE" text="--" />
+    <label id="lblSleepLogAwake1" font="Graphics.FONT_XTINY" x="center" y="123" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE" text="--" />    
+    <label id="lblSleepLogTime2" font="Graphics.FONT_XTINY" x="center" y="143" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE" text="--" />
+    <label id="lblSleepLogSlept2" font="Graphics.FONT_XTINY" x="center" y="158" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE" text="--" />
+    <label id="lblSleepLogAwake2" font="Graphics.FONT_XTINY" x="center" y="173" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE" text="--" />    
+    <label id="lblSleepLogTime3" font="Graphics.FONT_XTINY" x="center" y="193" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE" text="--" />
+    <label id="lblSleepLogSlept3" font="Graphics.FONT_XTINY" x="center" y="208" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE" text="--" />                 
+    <label id="lblSleepLogAwake3" font="Graphics.FONT_XTINY" x="center" y="223" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE" text="--" />    
+</layout>

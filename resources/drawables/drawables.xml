@@ -1,0 +1,20 @@
+<drawables>
+    <bitmap id="LauncherIcon" filename="launcher_icon.png" />
+    <bitmap id="StartSleepIconDefault" filename="icon_sleep_default.png" />
+    <bitmap id="StartSleepIconPressed" filename="icon_sleep_pressed.png" />
+    <bitmap id="EndSleepIconDefault" filename="icon_awake_default.png" />    
+    <drawable-list id="ButtonBorders" >
+    	<shape type="rectangle" height="55" color="Gfx.COLOR_PURPLE" />
+    	<shape type="rectangle" y="55" height="5" color="Gfx.COLOR_WHITE" />
+    	<shape type="rectangle" y="200" height="5" color="Gfx.COLOR_WHITE" />
+    </drawable-list>
+    <drawable-list id="logHeader" >
+    	<shape type="rectangle" height="40" color="Gfx.COLOR_PURPLE" />
+    	<shape type="rectangle" y="40" height="5" color="Gfx.COLOR_WHITE" />
+    </drawable-list>
+    <drawable-list id="logDividers" >
+    	<shape type="rectangle" y="95" height="1" color="Gfx.COLOR_WHITE" />
+    	<shape type="rectangle" y="145" height="1" color="Gfx.COLOR_WHITE" />
+    	<shape type="rectangle" y="195" height="1" color="Gfx.COLOR_WHITE" />
+    </drawable-list>
+</drawables>
