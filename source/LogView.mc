@@ -16,7 +16,7 @@ class LogView extends WatchUi.View {
     function onLayout(dc) {
         setLayout(Rez.Layouts.LogLayout(dc));      
         updateLogLabels(9);
-        System.println("Layout loaded for FBSView");
+        //System.println("Layout loaded for FBSView");
     }
 
     // Called when this View is brought to the foreground. Restore

@@ -6,7 +6,7 @@ This is a simple widget used to mark / log the times your baby sleeps.
 I created this during my parental leave to help me remember how long the baby slept.
 
 The data is directly stored on the device.
-The last 10 feeds are stored.
+The last 10 sleeps are stored.
 
 ## Use
 - Tap on the purple button at the top to start or stop a sleep.

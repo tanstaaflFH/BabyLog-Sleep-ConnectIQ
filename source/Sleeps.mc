@@ -34,6 +34,8 @@ class Sleeps {
 			//! calculate the new latest awake time before this sleep
 			if ( mSleepEndArray[8] != null ) {
 				mAwakeArray.add(sleepTime.subtract(mSleepEndArray[8]));
+			} else {
+				mAwakeArray.add(null);
 			}
 			mAwakeArray = mAwakeArray.slice(1,null);
 			
